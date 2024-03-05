@@ -1,3 +1,5 @@
+package tech.devinhouse;
+
 public class Cliente {
 
     private String nome;

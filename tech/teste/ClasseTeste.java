@@ -1,6 +1,6 @@
 package tech.teste;
 
-import tech.devinhouse.aula01.Cliente; // nao compilando
+import tech.devinhouse.Cliente; // compilando
 
 public class ClasseTeste {
 
@@ -9,6 +9,5 @@ public class ClasseTeste {
         Cliente cliente = new Cliente();
 
     }
-
 
 }
