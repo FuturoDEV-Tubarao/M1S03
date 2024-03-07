@@ -1,4 +1,4 @@
-package tech.devinhouse;
+package tech.devinhouse.aula01;
 
 public class Conta {
 
